@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "120256555234",
+    "firebase_url": "https://controlebanheiro.firebaseio.com",
+    "project_id": "controlebanheiro",
+    "storage_bucket": "controlebanheiro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120256555234:android:051f232f546ebadc",
+        "android_client_info": {
+          "package_name": "com.example.caiobarretoext.controlebanheiro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120256555234-fpe1oa33unj22jedo79l1v046d2dsq9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.caiobarretoext.controlebanheiro",
+            "certificate_hash": "0af530f3da481caf5ce8e5567f50904a21a1a576"
+          }
+        },
+        {
+          "client_id": "120256555234-oan096rl4k0t92s1mc21ntj07fre9t3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcPCiE1Z39Zsl_yU5dE6akBgrj033cDc8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120256555234-oan096rl4k0t92s1mc21ntj07fre9t3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
